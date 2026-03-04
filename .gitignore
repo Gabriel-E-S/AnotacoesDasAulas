@@ -1,0 +1,4 @@
+# Xournal++ autosave e arquivos temporários
+*.xopp~
+*.xopp.bak
+.Xournalpp/*
